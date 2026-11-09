@@ -18,7 +18,6 @@ It properly syncs audio with video track when using Bluetooth earphones/speaker.
  * **Video**: H.263, H.264 AVC (Baseline Profile; Main Profile on Android 6+), H.265 HEVC, MPEG-4 SP, VP8, VP9, AV1
  * **Containers**: MP4, MOV, WebM, MKV, Ogg, MPEG-TS, MPEG-PS, FLV
  * **Streaming**: DASH, HLS, SmoothStreaming, RTSP
- * **Subtitles**: SRT, SSA, ASS, TTML, VTT
 
 HDR (HDR10+ and Dolby Vision) video playback on compatible/supported hardware.
 
@@ -28,7 +27,7 @@ HDR (HDR10+ and Dolby Vision) video playback on compatible/supported hardware.
 
 ## Features
 
- * Audio/subtitle track selection
+ * Audio track selection
  * Playback speed control
  * Horizontal swipe and double tap to quickly seek
  * Vertical swipe to change brightness (left) / volume (right)
@@ -39,11 +38,7 @@ HDR (HDR10+ and Dolby Vision) video playback on compatible/supported hardware.
  * Auto frame rate matching on Android TV/boxes (Android 6+)
  * No ads, tracking or excessive permissions
 
-To load external (non-embedded) subtitles, long press the file open action in the bottom bar. The first time you do that, you will be offered to select root video folder to enable automatic loading of external subtitles.
-
 **`WRITE_SETTINGS` ("Modify system settings") permission**: When the system file chooser is opened, it will always use current system orientation, even if the Player app sets its own. Granting this permission via adb (`adb shell pm grant com.brouken.player android.permission.WRITE_SETTINGS`) or App info screen will allow this app to temporarily enable Auto-rotate to at least partially mitigate [this imperfection](https://issuetracker.google.com/issues/141968218).
-
-Donate: [PayPal](https://paypal.me/MarcelDopita) | [Bitcoin](https://live.blockcypher.com/btc/address/bc1q9u2ezgsnug995fv0m4vaxa90ujjwlucp78w4n0) | [Litecoin](https://live.blockcypher.com/ltc/address/LLZ3fULGwxbs6W9Vf7gtu1EjZvviCka7zP)
 
 Translate: [Weblate](https://hosted.weblate.org/engage/just-player/)
 
@@ -61,19 +56,11 @@ Other links/channels: application thread on [XDA Developers](https://forum.xda-d
 
 Just pause and resume playback once again.
 
-### How do I change subtitle font, size or color?
-
-If you enable [Caption preferences](https://support.google.com/accessibility/android/answer/6006554) on your device, you will be able to override the default subtitle style of the Player and fully customize subtitle style.
-
 ### Are there any media formats it CANNOT play?
 
 Unfortunately, upstream ExoPlayer doesn't handle some older formats like [AVI container](https://github.com/google/ExoPlayer/issues/2092), WMV or [Theora](https://github.com/google/ExoPlayer/issues/4970).
 
 Just Player focuses on playing videos so audio only playback isn't officialy supported ([request](https://github.com/moneytoo/Player/issues/55)). 
-
-### How about Android TV support?
-
-Since `v0.36`, Android TV is supported. Though, it is not available for installation on Android TV through Google Play yet.
 
 ### How to view detailed video information (like resolution, bitrate etc.)?
 
