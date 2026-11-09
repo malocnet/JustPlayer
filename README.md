@@ -1,4 +1,4 @@
-# Just (Video) Player 
+# Just Player 
 
 [![GitHub release (latest)](https://img.shields.io/github/v/release/malocnet/JustPlayer.svg?logo=github&label=GitHub)](https://github.com/malocnet/JustPlayer/releases/latest)
 [![Original](https://img.shields.io/badge/original-moneytoo%2FPlayer-blue?logo=github)](https://github.com/moneytoo/Player)
