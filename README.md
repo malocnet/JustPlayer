@@ -6,7 +6,7 @@
 [![Media3](https://img.shields.io/badge/Media3-1.11.1-007ec6)](https://github.com/androidx/media)
 [![Translation Status](https://hosted.weblate.org/widgets/just-player/-/svg-badge.svg)](https://hosted.weblate.org/engage/just-player/)
 
-Android video player based on [ExoPlayer](https://github.com/google/ExoPlayer)
+Android video player based on [Media3](https://github.com/androidx/media)
 
 It uses ExoPlayer's ``extension-ffmpeg`` with [all its audio formats](https://exoplayer.dev/supported-formats.html#ffmpeg-extension) enabled (it can handle even special formats like AC3, EAC3, DTS, DTS HD, TrueHD etc.).
 
