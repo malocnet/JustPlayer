@@ -23,7 +23,7 @@ HDR (HDR10+ and Dolby Vision) video playback on compatible/supported hardware.
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/moneytoo/Player/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="820"> <img src="https://raw.githubusercontent.com/moneytoo/Player/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="410"> <img src="https://raw.githubusercontent.com/moneytoo/Player/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="410">
+<img src="https://github.com/malocnet/JustPlayer/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/photo_2026-11-09_11-11-54.jpg" width="410"> <img src="https://github.com/malocnet/JustPlayer/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/photo_2026-11-09_11-11-54_2.jpg" width="820"> <img src="https://github.com/malocnet/JustPlayer/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/photo_2026-11-09_11-11-54_3.jpg" width="820">
 
 ## Features
 
