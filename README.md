@@ -1,10 +1,8 @@
 # Just (Video) Player 
 
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/moneytoo/Player.svg?logo=github&label=GitHub)](https://github.com/moneytoo/Player/releases/latest)
-[![Google Play](https://img.shields.io/endpoint?label=Google%20Play&logo=google-play&color=green&cacheSeconds=65536&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.brouken.player%26l%3DGoogle%2520Play%26m%3Dv%24version)](https://play.google.com/store/apps/details?id=com.brouken.player)
-[![F-Droid](https://img.shields.io/f-droid/v/com.brouken.player.svg?logo=f-droid&label=F-Droid)](https://f-droid.org/packages/com.brouken.player/)
-[![GitHub all releases](https://img.shields.io/github/downloads/moneytoo/Player/total)](https://github.com/moneytoo/Player/releases/latest)
-[![GitHub release (latest by date)](https://img.shields.io/github/downloads/moneytoo/Player/latest/total)](https://github.com/moneytoo/Player/releases/latest)
+[![GitHub release (latest)](https://img.shields.io/github/v/release/malocnet/JustPlayer.svg?logo=github&label=GitHub)](https://github.com/malocnet/JustPlayer/releases/latest)
+[![Original](https://img.shields.io/badge/original-moneytoo%2FPlayer-blue?logo=github)](https://github.com/moneytoo/Player)
+[![Forked from](https://img.shields.io/badge/forked%20from-whistlingwoods%2FJustPlayer-blue?logo=github)](https://github.com/whistlingwoods/JustPlayer)
 [![ExoPlayer](https://img.shields.io/badge/ExoPlayer-v2.14.1-007ec6)](https://github.com/google/ExoPlayer)
 [![Translation Status](https://hosted.weblate.org/widgets/just-player/-/svg-badge.svg)](https://hosted.weblate.org/engage/just-player/)
 
